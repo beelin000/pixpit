@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pixpit_app/config/palette.dart';
 
-class PostDetailsScreen extends StatelessWidget {
-  static const String tag = "post_details_screen";
+class NotificationScreen extends StatelessWidget {
+
+  static const String tag = "notification_screen";
   
   @override
   Widget build(BuildContext context) {
